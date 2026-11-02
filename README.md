@@ -7,7 +7,7 @@ I maintain and port Artemis cheat collections for modern PS3 emulation platforms
 ## Supported Platforms
 
 ✅ RPCS3 Desktop
-✅ Android PS3 Emulators  
+✅ Android PS3 Emulators  (ARMSX3)
 ✅ PS5SX3
 
 ## Focus Areas
@@ -17,6 +17,15 @@ I maintain and port Artemis cheat collections for modern PS3 emulation platforms
 - Compatibility testing
 - Patch maintenance
 - New cheat development when applicable
+
+## Project Highlights
+
+🎮 250+ Supported Games
+🔧 Thousands of Artemis Cheats Preserved
+✅ RPCS3 Support
+✅ Android Support
+✅ PS5SX3 Support
+
 
 ## Mission
 
