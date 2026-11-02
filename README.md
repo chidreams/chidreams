@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Chidreams
 
-<!--
-**chidreams/chidreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 PS3 Cheat Preservation & Compatibility Research
 
-Here are some ideas to get you started:
+I maintain and port Artemis cheat collections for modern PS3 emulation platforms, helping keep classic cheats working across today's emulators.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Supported Platforms
+
+✅ RPCS3 Desktop
+✅ Android PS3 Emulators  
+✅ PS5SX3
+
+## Focus Areas
+
+- Artemis cheat preservation
+- Cheat porting and conversion
+- Compatibility testing
+- Patch maintenance
+- New cheat development when applicable
+
+## Mission
+
+To preserve, organize, and modernize the Artemis cheat ecosystem for the PS3 emulation community.
+
+> Credit for original cheats belongs to their respective creators. My work focuses on preservation, compatibility, maintenance, testing, and platform support.
